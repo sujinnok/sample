@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 pornthep.s@motiftech.com
+=======
+pornthep.s@motiftech.com
+torgan.p@motiftech.com
+korakot.p@motiftech.com
+adichart.c@motiftech.com
+nawarin.i@motiftech.com
+panjapol.l@motiftech.com
+sittikorn.c@motiftech.com
+>>>>>>> be24a1f515d4a2880c8c11eac119c3e356f0bd83
