@@ -5,3 +5,4 @@ adichart.c@motiftech.com
 nawarin.i@motiftech.com
 panjapol.l@motiftech.com
 sittikorn.c@motiftech.com
+natpapat.k@motiftech.com
