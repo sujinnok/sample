@@ -11,8 +11,5 @@ sittikorn.c@motiftech.com
 onsiri.h@motiftech.com
 piyapat.p@motiftech.com
 kunanan.t@motiftech.com
-<<<<<<< HEAD
 varinthorn.s@motiftech.com
-=======
->>>>>>> 2e90d7b9d1fbc8121da4afc76cb5c81edeb86df7
 chadaporn.s@motiftech.com
