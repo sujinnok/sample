@@ -3,6 +3,14 @@ torgan.p@motiftech.com
 korakot.p@motiftech.com
 adichart.c@motiftech.com
 nawarin.i@motiftech.com
+
 panjapol.l@motiftech.com
+
 sittikorn.c@motiftech.com
+<<<<<<< HEAD
 natpapat.k@motiftech.com
+=======
+
+piyapat.p@motiftech.com
+kunanan.t@motiftech.com
+>>>>>>> 750b99725f670270add93eedd077e57056e01b2f
