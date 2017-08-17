@@ -41,22 +41,6 @@ thayanee.n@motiftech.com
 natthawat.s@motiftech.com
 thayanee.n@motiftech.com
 nuttapong.r@motiftech.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 pilai.p@motiftech.com
-=======
-<<<<<<< HEAD
->>>>>>> 1a78594dd74338d013d9b71f671f6c79f8503579
-=======
 adisak.s@motiftech.com
->>>>>>> 8ff2e46682f34f16124c3a7d880cf5eb88869984
->>>>>>> bedf1a5dd17dbe22da1101dd8f5105b66a72e275
-pilai.p@motiftech.com
-=======
-adisak.s@motiftech.com
-<<<<<<< HEAD
->>>>>>> 8ff2e46682f34f16124c3a7d880cf5eb88869984
 kanchana.beero@gmail.com
-=======
-
->>>>>>> eb06e7b52f4b78c01dc70b14dbe6682e38093cce
