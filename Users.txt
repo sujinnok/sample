@@ -16,4 +16,8 @@ varinthorn.s@motiftech.com
 chadaporn.s@motiftech.com
 chanachai.p@motiftech.com
 golf@kung.com
-nuttadet.o@motiftech.com
+<<<<<<< HEAD
+nuttadet.oOOOOOOOOOOOO@motiftech.com
+=======
+kittikun.sienarm@gmail.com
+>>>>>>> 30ff7a344b083132a00e2b90a2b437892c90ccc8
