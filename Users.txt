@@ -19,7 +19,7 @@ golf@kung.com
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-nuttadet.oOOOOOOOOOOOO@motiftech.com
+<<<<<<< HEAD
 =======
 kittikun.sienarm@gmail.com
 >>>>>>> 30ff7a344b083132a00e2b90a2b437892c90ccc8
@@ -32,3 +32,20 @@ somchai.c@motiftech
 kittikun.sienarm@gmail.com
 chananya.p@motiftech.com
 >>>>>>> 35fcc0aba550ef4046ec3998a312dd0c0096b158
+=======
+kittikun.sienarm@gmail.com
+nuttapong.r@motiftech.com
+somchai.c@motiftech
+kittikun.sienarm@gmail.com
+chananya.p@motiftech.com
+nuttapong.r@motiftech.com
+nuttadet.oooooooooooo@motiftech.com
+sasimaporn.s@motiftech.com
+surewat.i@motiftech.com
+natthawat.s@motiftech.com
+kittikun.sienarm@gmail.com
+chananya.p@motiftech.com
+thayanee.n@motiftech.com
+somchai.c@motiftech
+nuttapong.r@motiftech.com
+>>>>>>> 1a78594dd74338d013d9b71f671f6c79f8503579
